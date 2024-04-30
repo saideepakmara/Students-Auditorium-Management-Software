@@ -1,7 +1,7 @@
 # Students-Auditorium-Management-Software
 Student Auditorium Management Software was developed as an academic project for the Software Engineering course at IIT Kharagpur during the academic year 2023-2024.
 
-The Software was develope using Django and MySQL as database. Frontend includes HTML, CSS and JavaScript.
+The Software was developed using Django and MySQL as database. Frontend includes HTML, CSS and JavaScript.
 
 
 The software proposes a solution to the **PROBLEM STATEMENT** described below:
